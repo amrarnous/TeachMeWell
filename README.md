@@ -1,4 +1,4 @@
-# tmw
+# TeachMeWell
 
 ## Project setup
 ```
